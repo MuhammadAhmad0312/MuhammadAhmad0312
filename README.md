@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MuhammadAhmad0312
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Flutter and doing BSCs
+- 🌱 I’m currently learning REACT and doing BSCs
 - 💞️ I’m looking to collaborate on Code Review
 - 📫 How to reach me mohammeda00318@gmail.com
   
